@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:36.618330
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:47
 #+TITLE: 七星如意輪祕密要經
 #+PROPERTY: CBETA_ID T20n1091
 #+PROPERTY: ID KR6j0299
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1091
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0299_T_001-0224b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1091¶
-
- 七星如意輪祕密要經¶
+No. 1091¶
+七星如意輪祕密要經¶
 ¶
 三藏不空譯¶
 
@@ -72,9 +71,9 @@ No.1091¶
 　七寶莊嚴寶輪王
 　菩薩相好不思議¶
 　依正二報俱勝妙
-　我今敬禮如意輪
+　我今敬禮如意輪」
 #+END_VERSE
-」¶
+¶
 
 爾時如意輪菩薩而說偈言。¶
 
@@ -128,9 +127,9 @@ No.1091¶
 　是法能除一切罪¶
 　增長一切諸功德
 　自在能照於五道¶
-　成就一切眾生願
+　成就一切眾生願」
 #+END_VERSE
-」¶
+¶
 
 爾時神通王菩薩。頂禮聖輪還來本處。一心¶
 受持此不可思議摩訶般多羅祕密法門真¶
